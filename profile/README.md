@@ -3,8 +3,10 @@
 </div>
 
 > [!Warning]
-> As of January 2026, we have decided to move our development work from GitHub to [Codeberg](https://codeberg.org/nazara-project).
-> For support, bug reports and latest updates, please visit us there or [check our documentation](https://nazara-project.codeberg.page/Nazara/)
+> As of January 2026, we have decided to move our development work from GitHub to [Codeberg](https://codeberg.org/nazara-project) for reliability and privacy reasons.
+>
+> The repositories here will not be maintained further, nor will there be any communication on GitHub about updates, releases or issues.
+> For support, bug reports and latest updates, please visit us there or [check our documentation](https://nazara-project.codeberg.page/Nazara/).
 
 The Nazara Project is an open source software project dedicated to building an application that lets the user register, update and manage their devices on [NetBox](https://github.com/netbox-community/netbox).
 
